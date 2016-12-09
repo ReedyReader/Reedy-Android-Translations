@@ -22,7 +22,18 @@ script:
 
 after_failure: "cat $TRAVIS_BUILD_DIR/Reedy/build/outputs/lint-results-debug.xml"
 
+# Cache Gradle dependencies
+# https://docs.travis-ci.com/user/languages/java/#Caching
+before_cache:
+  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
+
 notifications:
+  # Gitter chat
   webhooks:
     urls:
       - https://webhooks.gitter.im/e/4285f611e4aca62773fc
