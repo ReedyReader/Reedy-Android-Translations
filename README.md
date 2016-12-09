@@ -10,8 +10,8 @@ Repository is intended to help speed up the app translation process.
 
 ## How can I help?
 
-Please see the [issues](https://github.com/Anizoptera/reedy-android-translations/issues) section to report any mistakes and problems.
-If you'd like to contribute, please [Fork](https://help.github.com/articles/fork-a-repo/) this repository and contribute back using [pull requests](https://github.com/Anizoptera/reedy-android-translations/pulls).
+Please see the [issues](https://github.com/ReedyReader/Reedy-Android-Translations/issues) section to report any mistakes and problems.
+If you'd like to contribute, please [Fork](https://help.github.com/articles/fork-a-repo/) this repository and contribute back using [pull requests](https://github.com/ReedyReader/Reedy-Android-Translations/pulls).
 
 Any contributions, large or small, are welcome and highly appreciated!
 
