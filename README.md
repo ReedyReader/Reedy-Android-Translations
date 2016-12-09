@@ -1,4 +1,4 @@
-# Reedy. Intelligent reader [![Build Status](https://travis-ci.org/ReedyReader/Reedy-Android-Translations.svg?branch=master)](https://travis-ci.org/ReedyReader/Reedy-Android-Translations)
+# Reedy. Intelligent reader [![Build Status](https://travis-ci.org/ReedyReader/Reedy-Android-Translations.svg?branch=master)](https://travis-ci.org/ReedyReader/Reedy-Android-Translations)  [![Join the chat at https://gitter.im/ReedyReader/Reedy](https://img.shields.io/badge/contact-gitter_chat-dd1054.svg)](https://gitter.im/ReedyReader/Reedy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <a href="https://play.google.com/store/apps/details?id=azagroup.reedy&referrer=utm_source%3Dgithub%26utm_medium%3Dtranslations%26utm_content%3Dreadme_btn"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="80px"/></a>
 
 This repository contains the translation data for the [**Reedy. Intelligent reader**](https://play.google.com/store/apps/details?id=azagroup.reedy&referrer=utm_source%3Dgithub%26utm_medium%3Dtranslations%26utm_content%3Dreadme_header) Android application.
