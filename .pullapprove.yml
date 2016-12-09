@@ -1,0 +1,21 @@
+version: 2
+
+always_pending:
+  title_regex: 'WIP'
+  labels:
+    - wip
+  explanation: 'This PR is a work in progress...'
+
+groups:
+  code-review:
+    approve_by_comment:
+      approve_regex: '^(Approved|:shipit:|:\+1:|LGTM)'
+      enabled: true
+      reject_regex: '^(Rejected|:-1:)'
+    required: 1
+    reject_value: -1
+    reset_on_push:
+      enabled: false
+    users:
+    - amal
+    - olegcherr
