@@ -8,9 +8,12 @@ android:
     - android-22
     - build-tools-24.0.2
 
+before_install:
+  - chmod +x gradlew  # Fix wrong file rights (useful if developing in windows)
+
 script:
   - echo "Travis branch is $TRAVIS_BRANCH"
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   - ./gradlew clean assembleRelease
 
-after_failure: "cat $TRAVIS_BUILD_DIR/app/build/outputs/lint-results-debug.xml"
+after_failure: "cat $TRAVIS_BUILD_DIR/Reedy/build/outputs/lint-results-debug.xml"
