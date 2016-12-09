@@ -13,8 +13,8 @@ android:
 
 before_install:
   - chmod +x gradlew  # Fix wrong file rights (useful if developing in windows)
-  - echo "Travis branch is $TRAVIS_BRANCH"
-  - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
+  - echo "Travis branch is $TRAVIS_BRANCH ($TRAVIS_EVENT_TYPE)"
+  - echo "Travis branch is in pull request $TRAVIS_PULL_REQUEST (from $TRAVIS_PULL_REQUEST_BRANCH)"
 
 script:
   - ./gradlew build connectedCheck
