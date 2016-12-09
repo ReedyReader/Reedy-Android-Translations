@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-android'
+
+android {
+	compileSdkVersion 22
+	buildToolsVersion '24.0.2'
+
+	defaultConfig {
+		applicationId "azagroup.reedy"
+		versionCode 1
+		versionName "1.0"
+
+		minSdkVersion 9
+		//noinspection OldTargetApi
+		targetSdkVersion 22
+
+		resConfigs "auto"
+	}
+	compileOptions {
+		encoding = "UTF-8"
+	}
+
+	buildTypes {
+		debug {}
+		release {}
+	}
+	sourceSets {
+		main.java.srcDirs += 'src/main/kotlin'
+		androidTest.java.srcDirs += 'src/androidTest/kotlin'
+		test.java.srcDirs += 'src/test/kotlin'
+	}
+	lintOptions {
+		abortOnError false
+	}
+}
+
+dependencies {
+	compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+
+
+	/* TESTS */
+
+	testCompile 'junit:junit:4.12'
+	testCompile 'org.robolectric:robolectric:3.1.4'
+}
+
+buildscript {
+	dependencies {
+		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+		classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+	}
+}

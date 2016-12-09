@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- "other" is needed for Android 2.+ and should match the "many" item -->
+    <!-- http://www.dimasokol.ru/plurals-in-android/ -->
+
+    <plurals name="buyPremium_earnings_days">
+        <item quantity="one">ДЕНЬ PRO-ВЕРСИИ</item>
+        <item quantity="few">ДНЯ PRO-ВЕРСИИ</item>
+        <item quantity="many">ДНЕЙ PRO-ВЕРСИИ</item>
+        <item quantity="other">ДНЕЙ PRO-ВЕРСИИ</item>
+    </plurals>
+
+    <plurals name="bookInfo_genre">
+        <item quantity="one">Жанр</item>
+        <item quantity="few">Жанры</item>
+        <item quantity="many">Жанры</item>
+        <item quantity="other">Жанры</item>
+    </plurals>
+
+</resources>

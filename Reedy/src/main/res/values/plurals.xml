@@ -1,0 +1,13 @@
+<resources>
+
+    <plurals name="buyPremium_earnings_days">
+        <item quantity="one">DAY OF PRO-VERSION</item>
+        <item quantity="other">DAYS OF PRO-VERSION</item>
+    </plurals>
+
+    <plurals name="bookInfo_genre">
+        <item quantity="one">Genre</item>
+        <item quantity="other">Genres</item>
+    </plurals>
+
+</resources>

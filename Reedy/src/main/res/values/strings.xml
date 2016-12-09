@@ -1,0 +1,380 @@
+<resources>
+    <string name="activitytitle_bookmarks">Bookmarks</string>
+    <string name="activitytitle_buyPremium" translatable="false">Buy Premium</string>
+    <string name="activitytitle_customText">Paste Custom Text</string>
+    <string name="activitytitle_filepicker">Open Document</string>
+    <string name="activitytitle_openLink">Open Link</string>
+    <string name="activitytitle_preferences">Preferences</string>
+    <string name="activitytitle_preferences_colors">Setup Colors</string>
+    <string name="activitytitle_recentFiles">File History</string>
+    <string name="activitytitle_recentLinks">Web History</string>
+    <string name="activitytitle_search">Search</string>
+    <string name="ads_bannerLandV1_descr">Get <b>Reedy Pro</b></string>
+    <string name="ads_bannerLandV1_title"><b>Support</b> the Project</string>
+    <string name="ads_bannerV1_textLB">the Project</string>
+    <string name="ads_bannerV1_textLT">Support</string>
+    <string name="ads_bannerV1_textRB">Reedy Pro</string>
+    <string name="ads_bannerV1_textRT">Get</string>
+    <string name="ads_bannerV2a_descr"><![CDATA[<font color="#de8f32"><b>PDF is coming.</b></font> Get <font color="#de8f32"><b>Pro version</b></font> to speed up the work!]]></string>
+    <string name="ads_bannerV2a_title">Reedy supports ePub, FB2, HTML, txt</string>
+    <string name="ads_bannerV2b_descr"><![CDATA[We\'re working on it. Get <font color="#de8f32"><b>Pro version</b></font> to speed us up!]]></string>
+    <string name="ads_bannerV2b_title">Different reading modes?</string>
+    <string name="ads_nativeV1a_cta">GET NOW</string>
+    <string name="ads_nativeV1a_title">Reedy Pro Version</string>
+    <string name="ads_nativeV1b_cta">LEARN MORE</string>
+    <string name="ads_nativeV1b_title">Reedy Pro</string>
+    <string name="ads_nativeV1c_cta">YES!</string>
+    <string name="ads_nativeV1c_title">Do u like Reedy?</string>
+    <string name="app_name" translatable="false">Reedy</string>
+    <string name="app_name_premium" translatable="false">Reedy Pro</string>
+    <string name="app_slogan" translatable="false">Intelligent Reader</string>
+    <string name="back">Back</string>
+    <string name="bookInfo">Book Info</string>
+    <string name="bookInfo_annotation">Annotation</string>
+    <string name="bookInfo_copyright">Copyright</string>
+    <string name="bookInfo_createdBy">Created by</string>
+    <string name="bookInfo_createdIn">Created in</string>
+    <string name="bookInfo_date">Date</string>
+    <string name="bookInfo_date_pack">Created date</string>
+    <string name="bookInfo_date_src">Original date</string>
+    <string name="bookInfo_doc_info">Document information</string>
+    <string name="bookInfo_file">File</string>
+    <string name="bookInfo_folder">Folder</string>
+    <string name="bookInfo_isbn" translatable="false">ISBN</string>
+    <string name="bookInfo_keywords">Keywords</string>
+    <string name="bookInfo_lang">Language</string>
+    <string name="bookInfo_lang_scr">Original language</string>
+    <string name="bookInfo_links">Links</string>
+    <string name="bookInfo_other">Other</string>
+    <string name="bookInfo_publisher">Published</string>
+    <string name="bookInfo_sequence">Sequence</string>
+    <string name="bookInfo_sequence_publication">Publication sequence</string>
+    <string name="bookInfo_sequence_source">Original sequence</string>
+    <string name="bookInfo_title_other">Other titles</string>
+    <string name="bookInfo_title_scr">Original title</string>
+    <string name="bookInfo_translate">Translated</string>
+    <string name="bookmarks_added">Bookmark added</string>
+    <string name="bookmarks_progress">Progress: %.1f%%</string>
+    <string name="bookmarks_removed">Bookmark removed</string>
+    <string name="buyPremium_adBtn">Promotional video</string>
+    <string name="buyPremium_adNotice_availInFewHours">There are no available Ads. Try in a few hours.</string>
+    <string name="buyPremium_adNotice_availInHour">There are no available Ads. Try a little bit later.</string>
+    <string name="buyPremium_adNotice_cannotLoadAnyAd">Couldn\'t load any Ad</string>
+    <string name="buyPremium_adNotice_maxDayCount">Awesome! You\'ve earned the maximum number of <b>Pro‑days</b>.</string>
+    <string name="buyPremium_adNotice_videoNotFinished">You should have watched the whole video.</string>
+    <string name="buyPremium_advantages_descr1">We believe it is unacceptable to distract you by advertisements while you\'re reading. Therefore the advertising is deliberately turned off on the reader screen. However, in other places it is still not too pleasant, even to ourselves. That\'s why we have set the very low price so that everyone could buy the Pro version and turn the advertising off.</string>
+    <string name="buyPremium_advantages_descr2">The future plans have a lot of cool useful things, such as:\n– New supported formats (PDF, Docx, RTF).\n– Different methods of speed reading (displaying several words in various ways).\n– Personal trainings and statistics.\nWant to help make this a reality?</string>
+    <string name="buyPremium_advantages_descr3">The project exists since 2014. A lot of work has been done here. Everything on pure enthusiasm :)</string>
+    <string name="buyPremium_advantages_title">Advantages of Pro version</string>
+    <string name="buyPremium_advantages_title1">No advertising. Ever</string>
+    <string name="buyPremium_advantages_title2">Accelerating of development</string>
+    <string name="buyPremium_advantages_title3">Encouragment of the work already done</string>
+    <string name="buyPremium_alert1_cta">OKAY, LET\'S BEGIN!</string>
+    <string name="buyPremium_alert1_msg">Cannot load any video. Therefore now we are going to show you 3 fullscreen banners one by one.\n\n<b>Feel free to click one of them if you\'re interested in!</b></string>
+    <string name="buyPremium_buyNotice_error">Cannot get the price</string>
+    <string name="buyPremium_buyNotice_internetNeeded">Internet connection is needed</string>
+    <string name="buyPremium_buyNotice_notInstalled">Seems like <b>Google Mobile Services</b> not installed on your device. They are required to make in‑app purchases.</string>
+    <string name="buyPremium_buyNotice_updating">Updating information ...</string>
+    <string name="buyPremium_earned">Pro Version granted!</string>
+    <string name="buyPremium_earnings_descr">Each time you watch an Ad you get 24 hours of the Pro version.</string>
+    <string name="buyPremium_earnings_youHave">YOU\'VE GOT</string>
+    <string name="buyPremium_for1Month"><![CDATA[FOR <b>1 MONTH</b>]]></string>
+    <string name="buyPremium_for1Year"><![CDATA[FOR <b>1 YEAR</b>]]></string>
+    <string name="buyPremium_monthlySubs">MONTHLY\nSUBSCRIPTION</string>
+    <string name="buyPremium_oneTimePurchase">ONE-TIME\nPURCHASE</string>
+    <string name="buyPremium_proVersion">PRO VERSION</string>
+    <string name="buyPremium_proVersionFor1Month"><![CDATA[PRO VERSION FOR <b>1 MONTH</b>]]></string>
+    <string name="buyPremium_proVersionFor1Year"><![CDATA[PRO VERSION FOR <b>1 YEAR</b>]]></string>
+    <string name="buyPremium_subtitle">Or watch one promotional video and get the <b>Pro version</b> for free.</string>
+    <string name="buyPremium_subtitle_bought">Thank you for supporting Reedy!</string>
+    <string name="buyPremium_title">Buy a subscription to <b>Pro Version</b> and help Reedy become more awesome!</string>
+    <string name="buyPremium_title_bought">Now you\'re Pro!</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="customtext_btn_start">Start reading</string>
+    <string name="customtext_btn_start_url">Open link</string>
+    <string name="customtext_info_transactionTooLarge">Android cannot pass such a big text between activities. Try to save it into a file.</string>
+    <string name="customtext_placeholder">Paste text or link</string>
+    <string name="done">Done</string>
+    <string name="empty_bookmarks">There are no Bookmarks</string>
+    <string name="empty_recentFiles">There are no Recent Files</string>
+    <string name="empty_recentLinks">There are no Recent Links</string>
+    <string name="err_connectionError">Connection error</string>
+    <string name="err_emptyDocument">Document is empty</string>
+    <string name="err_invalidUrl">Invalid link</string>
+    <string name="err_invalidUrl_withString">Invalid link:\n%1$s</string>
+    <string name="err_loadUrl">Couldn\'t load this page</string>
+    <string name="err_noInternetConnection">No Internet connection</string>
+    <string name="err_openFile">Couldn\'t open this file</string>
+    <string name="err_protectedFile">Cannot open protected file</string>
+    <string name="err_serverError">Server error</string>
+    <string name="err_tooBigFile">File is too big</string>
+    <string name="err_unavailableFile">File is not available</string>
+    <string name="err_unsupportedFormat">Unsupported format</string>
+    <string name="error">Error</string>
+    <string name="failed">Failed</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_chooseWay_descr_v1"><b>Thank you!</b>\nIf you want, give us a 5-star review on <b>Google Play</b>.</string>
+    <string name="feedback_chooseWay_descr_v2"><b>Thank you!</b>\nNow choose where you want to leave your feedback:</string>
+    <string name="feedback_chooseWay_descr_v3"><b>Thank you!</b>\nWe\'re glad that you like <b>Reedy</b>. Please leave your review on <b>Google Play</b>.</string>
+    <string name="feedback_chooseWay_descr_v3a"><b>Thank you!</b>\nWe\'re glad that you like <b>Reedy</b>. Please leave your review on <b>Google Play</b>. This will help us a lot.</string>
+    <string name="feedback_chooseWay_descr_v3b"><b>Thank you!</b>\nWe\'re glad that you like <b>Reedy</b>. Please leave your review on <b>Google Play</b>. It\'s very important for us.</string>
+    <string name="feedback_chooseWay_editor_v1">Proceed here</string>
+    <string name="feedback_chooseWay_editor_v2">Right here</string>
+    <string name="feedback_chooseWay_market_v1">Go to Google Play</string>
+    <string name="feedback_chooseWay_market_v2">On Google Play</string>
+    <string name="feedback_editor_hint">Your message</string>
+    <string name="feedback_rateApp">For a start, please rate Reedy in general:</string>
+    <string name="filebrowser_dividerTitle_device">Device</string>
+    <string name="filebrowser_dividerTitle_suggestions">Suggestions</string>
+    <string name="filebrowser_filesystem">File System</string>
+    <string name="filebrowser_homePage">Start Page</string>
+    <string name="filebrowser_makeDefault">Make This Location Default</string>
+    <string name="filebrowser_primaryStorage">Primary Storage</string>
+    <string name="filebrowser_secondaryStorage">Storage</string>
+    <string name="footnote">Footnote</string>
+    <string name="giveUs5">Give Us 5 Stars!</string>
+    <string name="item_removed">Item removed</string>
+    <string name="items_removed">Items removed</string>
+    <string name="list_action_removeSelected">Remove Selected</string>
+    <string name="list_action_selectAll">Select All</string>
+    <string name="loading">Loading ...</string>
+    <string name="loading_cancel">Cancel Loading</string>
+    <string name="main_bookmarks_empty">Your bookmarks will be displayed here.</string>
+    <string name="main_manageBookmarks">MANAGE BOOKMARKS »</string>
+    <string name="main_manageRecentFiles">MANAGE RECENT FILES »</string>
+    <string name="main_manageRecentLinks">MANAGE RECENT LINKS »</string>
+    <string name="main_menu_customText">PASTE TEXT</string>
+    <string name="main_menu_more">MORE</string>
+    <string name="main_menu_openFile">OPEN FILE</string>
+    <string name="main_menu_openLink">OPEN LINK</string>
+    <string name="main_popup_bookmarks">Bookmarks</string>
+    <string name="main_popup_buyPremium">Buy Pro / Donate</string>
+    <string name="main_popup_buyPremium_bought">About Pro Version</string>
+    <string name="main_popup_preferences">Preferences</string>
+    <string name="main_popup_recentFiles">File History</string>
+    <string name="main_popup_recentLinks">Web History</string>
+    <string name="main_recentFiles_txt1">Use buttons at the bottom to open <b>books</b> and <b>web pages</b>, or to paste your own text.\n\n<b>Supported file formats</b>:</string>
+    <string name="main_recentFiles_txt2">At the moment we\'re working on the <b>PDF support</b>. It will be added pretty soon. Stay in touch!\n\nIf you have any suggestions or troubles, please let us know by using the <b>Feedback</b> dialog from the More-menu.</string>
+    <string name="main_recentLinks_item1">Using speed reading</string>
+    <string name="main_recentLinks_item2">At dark or light background</string>
+    <string name="main_recentLinks_item3">Without distracting objects</string>
+    <string name="main_recentLinks_txt1">Open web documents and read them as you want:</string>
+    <string name="main_recentLinks_txt2"><b>Reedy</b> can extract the main content of web pages and remove unwanted elements.</string>
+    <string name="main_tab_bookmarks">BOOKMARKS</string>
+    <string name="main_tab_recentFiles">RECENT FILES</string>
+    <string name="main_tab_recentUrls">RECENT LINKS</string>
+    <string name="mock_date" translatable="false">Feb 14, 2016</string>
+    <string name="mock_description" translatable="false">Description</string>
+    <string name="mock_fileFormat" translatable="false">html</string>
+    <string name="mock_fileName" translatable="false">File name</string>
+    <string name="mock_fileSize" translatable="false">122 Kb</string>
+    <string name="mock_progress" translatable="false">74.1% done</string>
+    <string name="mock_title" translatable="false">Title</string>
+    <string name="mock_url" translatable="false">reedy.azagroup.ru/android</string>
+    <string name="no">No</string>
+    <string name="nothingToShow">Nothing to show</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="openBookWith">Open Book with ...</string>
+    <string name="openLink_btn_start_clipboard">From clipboard</string>
+    <string name="openLink_btn_start_open">Open link</string>
+    <string name="openLink_info_descr1">Paste a link to a web document, and <b>Reedy</b> will load and open it.</string>
+    <string name="openLink_info_descr2">A link may be within a text. <b>Reedy</b> will find it anyway.</string>
+    <string name="openLink_info_descr3">The easiest way to open a link from your browser is to send it to <b>Reedy</b> via «<b>Share</b>».</string>
+    <string name="openLink_info_descr4"><b>Reedy</b> can extract the main content of web pages and remove unwanted elements.</string>
+    <string name="openLink_info_urlFound">A link found</string>
+    <string name="openLink_info_urlFound_clipboard">A link found in the clipboard</string>
+    <string name="openLink_info_urlNotFound">Link not found</string>
+    <string name="openLink_placeholder">Paste your link here</string>
+    <string name="openLink_useReadability">Extract page content</string>
+    <string name="preferences_color_bg">Background</string>
+    <string name="preferences_color_bg_descr">The main background of the reader.</string>
+    <string name="preferences_color_context">Context</string>
+    <string name="preferences_color_context_descr">Color of the full text.</string>
+    <string name="preferences_color_customization">Customize colors</string>
+    <string name="preferences_color_customization__descr">You can setup your own colors of the reader for both light and dark themes.</string>
+    <string name="preferences_color_focal">Focal point</string>
+    <string name="preferences_color_focal_descr">A letter you\'re looking at.</string>
+    <string name="preferences_color_interface">Interface</string>
+    <string name="preferences_color_interface_descr">Scrollbar and focus lines.</string>
+    <string name="preferences_color_progress">Progress bar</string>
+    <string name="preferences_color_progress_descr">Yes, the progress bar.</string>
+    <string name="preferences_color_word">Current word</string>
+    <string name="preferences_color_word_descr">Color of the non‑focused part of a showing word.</string>
+    <string name="preferences_defaultReadingMode">Default Reading Mode</string>
+    <string name="preferences_defaultReadingMode_descr">Choose the reader that will be used when you open a book.</string>
+    <string name="preferences_defaultReadingMode_last">Last used</string>
+    <string name="preferences_defaultReadingMode_last__value" translatable="false">last</string>
+    <string name="preferences_defaultReadingMode_rr__value" translatable="false">rr</string>
+    <string name="preferences_defaultReadingMode_sr__value" translatable="false">sr</string>
+    <string name="preferences_defaultReadingMode_tr__value" translatable="false">tr</string>
+    <string name="preferences_info_readerSettings">Speed reading settings are inside the speed reader. Just open a book and pick «Preferences» from the dropdown menu.</string>
+    <string name="preferences_info_version">Application version: %1$s</string>
+    <string name="preferences_lang">Language</string>
+    <string name="preferences_lang_auto">Default</string>
+    <string name="preferences_lang_auto__value" translatable="false">auto</string>
+    <string name="preferences_lang_descr">Choose the interface language.</string>
+    <string name="preferences_lang_en" translatable="false">English</string>
+    <string name="preferences_lang_en__value" translatable="false">en</string>
+    <string name="preferences_lang_ru" translatable="false">Русский</string>
+    <string name="preferences_lang_ru__value" translatable="false">ru</string>
+    <string name="preferences_premium">Disable advertising and support developers</string>
+    <string name="preferences_premium_descr">Buy Pro version and help Reedy become more awesome!</string>
+    <string name="preferences_reset_colors">Reset colors</string>
+    <string name="preferences_reset_colors_msg">Are you sure you want to reset all the colors of a current theme to their default values?</string>
+    <string name="preferences_statusBar">Status Bar</string>
+    <string name="preferences_statusBar_descr">You can hide the Android status bar in the reader.</string>
+    <string name="preferences_theme">Theme</string>
+    <string name="preferences_theme_dark">Dark</string>
+    <string name="preferences_theme_dark__value" translatable="false">dark</string>
+    <string name="preferences_theme_descr">You can switch between light and dark themes.</string>
+    <string name="preferences_theme_light">Light</string>
+    <string name="preferences_theme_light__value" translatable="false">light</string>
+    <string name="preferences_useReadability">Extract Web content</string>
+    <string name="preferences_useReadability_descr">When you send a web page to Reedy it will try to extract the main text of this page.</string>
+    <string name="premium_cannotCheck"><b>Reedy cannot check your Pro Version</b>.\n\nUsually this happens if <b>Google Services</b> have become unavailable on your device. Enable them if you know how. Or search for «<b>install google play store</b>» on the Internet.\n\nWe\'re really sorry about such inconvenience.</string>
+    <string name="premium_missed">Seems like the Pro Version is expired. Please turn the Internet on to let Reedy check whether it is true or not.</string>
+    <string name="progress_read">%.1f%% done</string>
+    <string name="reader_externalLink">External Link</string>
+    <string name="reader_externalLink_openInBrowser">Open in Browser</string>
+    <string name="reader_externalLink_openInReedy">Open in Reedy</string>
+    <string name="readerMenu_addBookmark">Add Bookmark</string>
+    <string name="readerMenu_addRemoveBookmark">Add/Remove Bookmark</string>
+    <string name="readerMenu_bookmarks">Bookmarks</string>
+    <string name="readerMenu_lockOrientation">Lock Orientation</string>
+    <string name="readerMenu_preferences">Preferences</string>
+    <string name="readerMenu_removeBookmark">Remove Bookmark</string>
+    <string name="readerMenu_search">Search</string>
+    <string name="readerMenu_selectionMode">Select Text</string>
+    <string name="readerMenu_statusBar">Status Bar</string>
+    <string name="readerMenu_switchTheme">Switch Theme</string>
+    <string name="refresh">Refresh</string>
+    <string name="reportProblem">Report Problem</string>
+    <string name="reset">Reset</string>
+    <string name="rr">Regular Reader</string>
+    <string name="rr_copy">Copy</string>
+    <string name="rr_copy_done">Copied to clipboard</string>
+    <string name="rr_noSelection">Select any text at first</string>
+    <string name="rr_selection_startInfo">Tap to create selection</string>
+    <string name="rr_selectText">Select Text</string>
+    <string name="rr_share">Share</string>
+    <string name="rr_showHideStatusBar">Show/Hide Status Bar</string>
+    <string name="rr_tooltip_sr">Enable <b>speed reading mode</b> anytime you want by pressing this button</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="search_hint">Search</string>
+    <string name="search_nothing_found">Nothing is found</string>
+    <string name="search_panel_nextResult">Next result</string>
+    <string name="search_panel_prevResult">Previous result</string>
+    <string name="search_panel_results">Search results</string>
+    <string name="search_sort"><![CDATA[Sort by <b>%1$s</b>]]></string>
+    <string name="search_sort_position">Position</string>
+    <string name="search_sort_relevance">Relevance</string>
+    <string name="send">Send</string>
+    <string name="sending">Sending ...</string>
+    <string name="share">Share</string>
+    <string name="share_attachCoverImage">Attach cover image</string>
+    <string name="share_facebook" translatable="false">Facebook</string>
+    <string name="share_gplus" translatable="false">Google Plus</string>
+    <string name="share_info_couldntLogin">Couldn\'t login. You can try again.</string>
+    <string name="share_info_couldntShare">Couldn\'t perform sharing. You can try again.</string>
+    <string name="share_info_couldntShare_withDescr">Couldn\'t perform sharing:\n%1$s</string>
+    <string name="share_info_formFilledIncorrectly">The form filled incorrectly</string>
+    <string name="share_info_shared">Shared successfully!</string>
+    <string name="share_invite">Invite friends to Reedy</string>
+    <string name="share_invite_message">Reedy is an awesome reading app. You have to try it!</string>
+    <string name="share_invite_title" translatable="false">@string/share_invite</string>
+    <string name="share_lastUsed">LAST USED</string>
+    <string name="share_local">Another apps ...</string>
+    <string name="share_quickSendInfo">QUICK\nSENDING</string>
+    <string name="share_quickSendToast">Send in one tap using recent share settings</string>
+    <string name="share_settings_addAuthors">Author</string>
+    <string name="share_settings_addQuoteMarks">Quotation marks</string>
+    <string name="share_settings_addReedyLink">Reedy link</string>
+    <string name="share_settings_addTitle">Title</string>
+    <string name="share_submit">LOOKS GOOD</string>
+    <string name="share_submit_postToWall">POST TO WALL</string>
+    <string name="share_submit_tweet">TWEET</string>
+    <string name="share_title">Share via ...</string>
+    <string name="share_twitter" translatable="false">Twitter</string>
+    <string name="share_viaSignature" translatable="false">Via Reedy:</string>
+    <string name="share_viaSignature_twitter" translatable="false">Via @ReedyReader</string>
+    <string name="share_vk">VK.com</string>
+    <string name="sr">Speed Reader</string>
+    <string name="sr_aboutRSVP"><b>Reedy</b> lets you adjust the alignment for a more comfortable reading. Most of the users set the alignment to 30-40%.</string>
+    <string name="sr_btn_nextParag">Next Paragraph</string>
+    <string name="sr_btn_nextSentence">Next Sentence</string>
+    <string name="sr_btn_prevParag">Previous Paragraph</string>
+    <string name="sr_btn_prevSentence">Previous Sentence</string>
+    <string name="sr_emptySentenceEnd">Gap between sentences</string>
+    <string name="sr_emptySentenceEnd_descr">Insert an empty space between sentences and paragraphs.</string>
+    <string name="sr_focusLetter">Highlight alignment letter</string>
+    <string name="sr_focusLetter_descr">Reedy can highlight the focus letter. Sometimes it may help you increase the perception speed.</string>
+    <string name="sr_focusLines">Show focus lines</string>
+    <string name="sr_focusLines_descr">They help to concentrate attention on the reading area.</string>
+    <string name="sr_gradualAccel">Gradual acceleration</string>
+    <string name="sr_gradualAccel_descr">Decrease the speed after pauses or images, then restore it during the next few words.</string>
+    <string name="sr_hyphenation">Hyphenation</string>
+    <string name="sr_hyphenation_descr">Divide long words into smaller parts.</string>
+    <string name="sr_letterAlignment">Letter alignment</string>
+    <string name="sr_letterAlignment_descr">You might prefer to enable the alignment on the letter nearest to the focus position.</string>
+    <string name="sr_menu_textSizePos">Text Size/Position</string>
+    <string name="sr_menu_timeLeft">Time Left</string>
+    <string name="sr_progressBar">Progress bar</string>
+    <string name="sr_progressBar_descr">Display the current progress of reading.</string>
+    <string name="sr_richItem_clickToSee">Table. Click to see.</string>
+    <string name="sr_sequel">Ticker mode</string>
+    <string name="sr_sequel_descr">Show the text which follows the current word.</string>
+    <string name="sr_settings_appearance">APPEARANCE</string>
+    <string name="sr_settings_mockText">Reedy is a speed reading application. It helps you to read faster. A lot faster. Just relax and enjoy your books.</string>
+    <string name="sr_settings_reading">READING</string>
+    <string name="sr_settings_volumeBtns">VOLUME BUTTONS</string>
+    <string name="sr_smartSlowing">Smart slowing</string>
+    <string name="sr_smartSlowing_descr">Slightly slow down the speed according to the complexity of a currently showed word.</string>
+    <string name="sr_textSizePosInfo">Move and zoom, then save changes</string>
+    <string name="sr_timeLeft_hour">%1$d h</string>
+    <string name="sr_timeLeft_left">%1$s left</string>
+    <string name="sr_timeLeft_lessThan_sec">Less than %1$d sec</string>
+    <string name="sr_timeLeft_min">%1$d min</string>
+    <string name="sr_timeLeft_sec">%1$d sec</string>
+    <string name="sr_timeLeft_theEnd">The end</string>
+    <string name="sr_tooltip_settings">Speed reader is highly customizable.\n<b>Preferences</b> are available in the menu.</string>
+    <string name="sr_volumeButtonsMode_none">Change volume</string>
+    <string name="sr_volumeButtonsMode_none__value" translatable="false">none</string>
+    <string name="sr_volumeButtonsMode_none_descr">Volume buttons will not be used by the reader.</string>
+    <string name="sr_volumeButtonsMode_playbackAndNav">Play/pause and navigation</string>
+    <string name="sr_volumeButtonsMode_playbackAndNav__value" translatable="false">playback-nav</string>
+    <string name="sr_volumeButtonsMode_playbackAndNav_descr">The most awesome option.\n– Press any volume button once to stop or proceed the reading.\n– Press and hold to navigate through sentences.</string>
+    <string name="sr_volumeButtonsMode_wpm">Change WPM</string>
+    <string name="sr_volumeButtonsMode_wpm__value" translatable="false">wpm</string>
+    <string name="sr_volumeButtonsMode_wpm_descr">Use volume buttons for quick speed adjusting.</string>
+    <string name="synchronization">Synchronization ...</string>
+    <string name="table">Table</string>
+    <string name="thankYou">Thank You!</string>
+    <string name="toc">Contents</string>
+    <string name="toc_noItems">No Items</string>
+    <string name="tr">Text-to-Speech</string>
+    <string name="tr_btn_audioPrefs">Audio Settings</string>
+    <string name="tr_btn_nextSentence">Next Sentence</string>
+    <string name="tr_btn_playback" translatable="false">Play/Pause</string>
+    <string name="tr_btn_prevSentence">Previous Sentence</string>
+    <string name="tr_cannotInitTts">Cannot initialize Text-to-speech on this device</string>
+    <string name="tr_cannotUseLang">Cannot use this language.\nPlease check if it\'s installed correctly.</string>
+    <string name="tr_chooseEngine_title">Choose TTS Engine</string>
+    <string name="tr_noEngines_goInstall">Yes, open Google Play</string>
+    <string name="tr_noEngines_message">There are no Text-To-Speech Engines installed on your device. Do you want to install <b>Google Text-To-Tpeech</b> from Google Play?</string>
+    <string name="tr_noEngines_notGo">No, maybe later</string>
+    <string name="tr_noEngines_title">No TTS Engines found</string>
+    <string name="tr_pitch">Pitch</string>
+    <string name="tr_playbackNoLangs">Seems like there are no languages installed. There may be no sound.</string>
+    <string name="tr_prefs_cannotOpenSysPrefs">Cannot open TTS Preferences.\nPlease do it manually:\nSettings->Accessibility->Text-to-speech</string>
+    <string name="tr_prefs_docLang">Document Language</string>
+    <string name="tr_prefs_engine">Engine</string>
+    <string name="tr_prefs_noAvailLangs">No languages to display</string>
+    <string name="tr_prefs_openSystemPrefs">Open System Preferences</string>
+    <string name="tr_rate">Rate</string>
+    <string name="tr_wrongLang">Seems like the document is written on a different language.\n\nPlease choose the proper language in the audio settings, or skip this incorrect part of the text.</string>
+    <string name="try_again">Try Again</string>
+    <string name="wpm" translatable="false">wpm</string>
+    <string name="yes">Yes</string>
+</resources>
