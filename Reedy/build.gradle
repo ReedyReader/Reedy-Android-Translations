@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android-extensions'
-apply plugin: 'kotlin-android'
+//apply plugin: 'kotlin-android-extensions'
+//apply plugin: 'kotlin-android'
 
 android {
 	compileSdkVersion 22
-	buildToolsVersion '24.0.2'
+	buildToolsVersion '22.0.1'
 
 	defaultConfig {
 		applicationId "azagroup.reedy"
@@ -36,18 +36,18 @@ android {
 }
 
 dependencies {
-	compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+	//compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
 
 	/* TESTS */
 
-	testCompile 'junit:junit:4.12'
-	testCompile 'org.robolectric:robolectric:3.1.4'
+	//testCompile 'junit:junit:4.12'
+	//testCompile 'org.robolectric:robolectric:3.1.4'
 }
 
 buildscript {
 	dependencies {
-		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-		classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+		//classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+		//classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
 	}
 }
