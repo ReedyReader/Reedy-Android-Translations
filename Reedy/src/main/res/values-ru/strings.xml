@@ -18,6 +18,12 @@
     <string name="ads_bannerV2a_title">Reedy открывает ePub, FB2, HTML, txt</string>
     <string name="ads_bannerV2b_descr"><![CDATA[Мы работаем над ними. <font color="#de8f32"><b>Ускорь разработку!</b></font>]]></string>
     <string name="ads_bannerV2b_title">Разные режимы чтения?</string>
+    <string name="ads_nativeV1a_cta">КУПИТЬ</string>
+    <string name="ads_nativeV1a_title">Reedy Pro-версия</string>
+    <string name="ads_nativeV1b_cta">ПОДРОБНЕЕ</string>
+    <string name="ads_nativeV1b_title">Reedy Pro</string>
+    <string name="ads_nativeV1c_cta">ДА!</string>
+    <string name="ads_nativeV1c_title">Нравится Reedy?</string>
     <string name="back">Назад</string>
     <string name="bookInfo">Информация о книге</string>
     <string name="bookInfo_annotation">Аннотация</string>
@@ -204,7 +210,6 @@
     <string name="preferences_useReadability_descr">Когда вы отправляете веб‑страницу в Reedy, он может попытаться извлечь её основное содержимое.</string>
     <string name="premium_cannotCheck"><b>Не удалось проверить наличие Pro-версии</b>.\n\nОбычно это случается из-за неисправности <b>Google-сервисов</b>. Проверьте не отключены ли они. Либо поищите в Интернете «<b>как установить google play store</b>».\n\nМы очень сожалеем из-за данного неудобства.</string>
     <string name="premium_missed">Кажется у вас закончилась Pro-версия. Пожалуйста, включите интернет чтобы Reedy проверил всё ли в порядке.</string>
-    <string name="press_color_to_apply">Нажмите на цвет для выбора</string>
     <string name="progress_read">%.1f%% прочитано</string>
     <string name="reader_externalLink">Внешняя ссылка</string>
     <string name="reader_externalLink_openInBrowser">Открыть в браузере</string>
