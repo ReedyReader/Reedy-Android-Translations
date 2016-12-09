@@ -1,14 +1,23 @@
+# http://docs.travis-ci.com/user/languages/android/
+# https://github.com/codepath/android_guides/wiki/Setting-up-Travis-CI
+
 language: android
+
+# It's needed for Gradle 3+
+jdk: oraclejdk8
 
 android:
   components:
-    - tools
-    - tools # Running this twice get's the latest build tools (https://github.com/codepath/android_guides/wiki/Setting-up-Travis-CI)
-    - platform-tools
+    - build-tools-22.0.1
     - android-22
-    - build-tools-24.0.2
+
+before_install:
+  - chmod +x gradlew  # Fix wrong file rights (useful if developing in windows)
+  - echo "Travis branch is $TRAVIS_BRANCH ($TRAVIS_EVENT_TYPE)"
+  - echo "Travis branch is in pull request $TRAVIS_PULL_REQUEST (from $TRAVIS_PULL_REQUEST_BRANCH)"
 
 script:
-  - ./gradlew clean assembleRelease
+  - ./gradlew build connectedCheck
+  #- ./gradlew clean assembleRelease
 
-after_failure: "cat $TRAVIS_BUILD_DIR/app/build/outputs/lint-results-debug.xml"
+after_failure: "cat $TRAVIS_BUILD_DIR/Reedy/build/outputs/lint-results-debug.xml"
