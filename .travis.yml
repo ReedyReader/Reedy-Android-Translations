@@ -1,12 +1,11 @@
-language: android
+# http://docs.travis-ci.com/user/languages/android/
+# https://github.com/codepath/android_guides/wiki/Setting-up-Travis-CI
 
+language: android
 android:
   components:
-    - tools
-    - tools # Running this twice get's the latest build tools (https://github.com/codepath/android_guides/wiki/Setting-up-Travis-CI)
-    - platform-tools
+    - build-tools-22.0.1
     - android-22
-    - build-tools-24.0.2
 
 before_install:
   - chmod +x gradlew  # Fix wrong file rights (useful if developing in windows)
